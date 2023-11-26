@@ -1,5 +1,10 @@
+This repo contains the sources of an article reporting the data
+jamboree at the 2023 SSC Mini Symposium (Nov. 4, 2023).
+
 # Jamboree of 2023 SSC Mini Symposium
-Article describing the [data jamboree at the 2023 SSC mini-symposium](https://asa-ssc.github.io/minisymp2023/jamboree/).
+[data jamboree at the 2023 SSC
+mini-symposium](https://asa-ssc.github.io/minisymp2023/jamboree/),
+chaired by Sam Tyner (who did the R part in 2022).
 
 - Python: [Shannon Tass](https://neeley-tass.byu.edu), Associate Professor,
   Department of Statistics, Brigham Young University. [Code](https://github.com/esnt/Jamboree)
