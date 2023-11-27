@@ -49,3 +49,6 @@ babel/
 \#*\#
 *.*~
 *~
+
+# specific files
+manuscript.pdf
